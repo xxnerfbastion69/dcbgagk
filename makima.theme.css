@@ -1,19 +1,10 @@
-/**
- * @name makima
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite 7pNUC9C
- * @BDEditor Clear Vision
-*/
+
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #F44336;
-  --hover-color: #FFC107;
+  --hover-color: #23218a;
   --success-color: #43b581;
   --danger-color: #F4433;
   --url-color: var(--main-color);
